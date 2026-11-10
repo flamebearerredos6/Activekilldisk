@@ -203,4 +203,4 @@ This repository serves as the official landing page for Active@ KillDisk. The so
 **Get the most recent version of Active@ KillDisk today!**
 
 ---
-**Last updated:** 2026-11-09 17:57:43 UTC
+**Last updated:** 2026-11-10 01:09:12 UTC
